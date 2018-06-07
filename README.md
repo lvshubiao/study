@@ -20,3 +20,6 @@ lsb940310@
 svn://liupengfei@172.16.16.46/new-mobile/project/project/BONC/ICRMProject/NanJingPro/code/HTML
 账号:lvshubiao
 密码:9cc1ea31ff9c222c
+##谷歌邮箱:
+账号:703225292lsb@gmail.com 
+密码:lsb940310
