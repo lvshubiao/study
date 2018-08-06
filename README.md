@@ -15,7 +15,7 @@ m79h8fy4
 密码:lv_shu_biao_.11
 # vpn
 vpn0110309
-lsb940310@
+lsb940310!
 # svn移
 svn://liupengfei@172.16.16.46/new-mobile/project/project/BONC/ICRMProject/NanJingPro/code/HTML
 账号:lvshubiao
